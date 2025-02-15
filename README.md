@@ -14,7 +14,7 @@ This is a **Plant Disease Detection** web application built with **Streamlit** a
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/plant-disease-detector.git
+   git clone https://github.com/YOUR_USERNAME/plant-disease-detector](https://github.com/ashrafino/Plant-Disease-Detector-webcam-images-in-real-time.git
    cd plant-disease-detector
    ```
 
